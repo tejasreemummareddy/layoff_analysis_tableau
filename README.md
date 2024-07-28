@@ -43,4 +43,4 @@ The dataset includes the following key columns:
 # Conclusion
 The analysis of the 2024 layoff data reveals significant trends and provides valuable insights into the factors contributing to widespread layoffs. By understanding these patterns, companies can adopt strategic measures to improve resilience against economic fluctuations and support their workforce more effectively.
 
-This GitHub page serves as a comprehensive overview and provides a foundation for further detailed analysis and actionable strategies to address the issue of layoffs.
+This GitHub page contains an interactive Tableau file containing a dashboard and story providing more insights into the Layoffs.
